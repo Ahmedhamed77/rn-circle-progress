@@ -5,11 +5,15 @@ React Native component visualizes the progress of a task using a circular indica
 
 `Features:`
 
-Dynamic Progress Indicator: The circle fills up based on the given progress percentage.
-Animated Percentage Display: An animated text in the center updates to reflect the current progress percentage.
+***Dynamic Progress Indicator:*** The circle fills up based on the given progress percentage.
+Animated Percentage 
+
+***Display:*** An animated text in the center updates to reflect the current progress percentage.
 Color Interpolation: The circle's stroke color changes dynamically based on progress, transitioning smoothly between different shades of green.
-Reset Functionality: Allows the progress to be reset to zero with an animated transition.
+
+***Reset Functionality:*** Allows the progress to be reset to zero with an animated transition.
 Sliced Circle Design: The circle is visually sliced into 10 segments, giving it a distinct appearance.
+
 
 `Usage:`
 
